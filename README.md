@@ -1,0 +1,2 @@
+# K-Nearest-Neighbour
+k-Nearest Neighbors identifies the k number of observations that are most proximate to the test sample, as defined by some distance metric, e.g. Euclidean. From this set of k-neighbors, majority rule is used to predict the class. If k=3 and the nearest neighbor wines’ qualities are {low, low, medium}, then we would classify the test sample as a low-quality wine. The same approach is extended to subsequent test samples.
